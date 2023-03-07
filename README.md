@@ -19,7 +19,7 @@ Inicio de selección del tipo de conversor
     - Grados Kelvin
 
 ## Capturas:
-![App Screenshot](example-img/01.jpg)
+![App Screenshot](https://raw.githubusercontent.com/Breakingsoft/challenge02-conversor-java-alura-oracle-one/main/example-img/01.png)
 ![App Screenshot](example-img/02.jpg)
 ![App Screenshot](example-img/03.jpg)
 ![App Screenshot](example-img/04.jpg)
