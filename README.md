@@ -20,11 +20,11 @@ Inicio de selección del tipo de conversor
 
 ## Capturas:
 ![App Screenshot](https://raw.githubusercontent.com/Breakingsoft/challenge02-conversor-java-alura-oracle-one/main/example-img/01.png)
-![App Screenshot](example-img/02.jpg)
-![App Screenshot](example-img/03.jpg)
-![App Screenshot](example-img/04.jpg)
-![App Screenshot](example-img/05.jpg)
-![App Screenshot](example-img/06.jpg)
+![App Screenshot](https://github.com/Breakingsoft/challenge02-conversor-java-alura-oracle-one/blob/main/example-img/02.jpg)
+![App Screenshot](https://github.com/Breakingsoft/challenge02-conversor-java-alura-oracle-one/blob/main/example-img/03.jpg)
+![App Screenshot](https://github.com/Breakingsoft/challenge02-conversor-java-alura-oracle-one/blob/main/example-img/04.jpg)
+![App Screenshot](https://github.com/Breakingsoft/challenge02-conversor-java-alura-oracle-one/blob/main/example-img/05.jpg)
+![App Screenshot](https://github.com/Breakingsoft/challenge02-conversor-java-alura-oracle-one/blob/main/example-img/06.jpg)
 
 ### Referencias:
       https://github.com/fawazahmed0/currency-api#readme
